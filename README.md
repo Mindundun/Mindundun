@@ -1,7 +1,6 @@
 <p align='center'>
     <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=하루하루%20성장하는%20박민경입니다.😄&fontSize=50&animation=fadeIn&fontAlignY=38&desc=성장형%20개발자🌱&descAlignY=51&descAlign=50"/>
 </p>
-<br>
 
 <h3>프로그램 개발 및 데이터베이스, 데이터 분석 등 공부하고 있습니다.</h3>
 
