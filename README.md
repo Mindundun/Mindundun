@@ -1,5 +1,5 @@
 <p align='center'>
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=하루하루%20성장하는%20박민경입니다.😄&fontSize=50&animation=fadeIn&fontAlignY=38&desc=성장형%20개발자&descAlignY=51&descAlign=50"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=하루하루%20성장하는%20박민경입니다.😄&fontSize=50&animation=fadeIn&fontAlignY=38&desc=성장형%20개발자🌱&descAlignY=51&descAlign=50"/>
 </p>
 <br>
 
@@ -19,7 +19,7 @@
 |<b>2020.05 -</b>| **영림원소프트랩** | **ERP 개발 및 유지보수, 연동업체와 협업 개발(MES, WMS, 쇼핑몰 연동)** | 
 
 <details>
-  <summary><h2>상세 포트폴리오</h2></summary>
+  <summary><h2>Career 상세 포트폴리오</h2></summary>
     <p>
       <ul>
         <table>
@@ -234,7 +234,7 @@
     <thead>
         <tr>
             <th>PERIOD</th>
-            <th>TITLE</th>
+            <th>EDUCATIONAL INSTITUTION</th>
             <th>SUBJECT</th>
             <th>DETAIL</th>
         </tr>
@@ -254,8 +254,8 @@
             <td>티아이에스정보기술교육센터</td>
             <td>R과 Python을 활용한 빅데이터 분석 및 시각화 과정</td>
             <td>
-                - R과 Python을 이용하여 데이터 시각화<br>
-                - 공공 데이터를 활용하여 시각화 작업
+                - R과 Python을 이용하여 공공 데이터 시각화<br>
+                - Python(numpy, pandas etc.)
             </td>
         </tr>
     </tbody>
