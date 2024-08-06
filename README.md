@@ -1,5 +1,5 @@
 <p align='center'>
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=하루하루%20성장하는%20박민경입니다.😄&fontSize=50&animation=fadeIn&fontAlignY=38&desc=성장형%20개발자🌱&descAlignY=51&descAlign=50"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=성장형%20개발자%20MinkyungPark&fontSize=50&animation=fadeIn&fontAlignY=38&desc=🌱&descAlignY=51&descAlign=91"/>
 </p>
 
 <h3>프로그램 개발 및 데이터베이스, 데이터 분석 등 공부하고 있습니다.</h3>
@@ -217,7 +217,7 @@
           <b>[고도화]</b><br>
           수출 시 필요한 문서를 별도로 작성하지 않아도  출력하여 사용하며, 구매한 품목과 기존의 자재를을 상세하게 확인 가능하고, CS의 경우 내수/수출에 대한 유/무상처리을 동시에 처리할 수 있도록 편의성을 증가 <br>
           다중조건 조회 기능 추가로 사용자가 구매 및 외주 관련 데이터를 더욱 효율적으로 관리, 수출Invoice 출력 시 거래처품명과 품번이 정확히 반영되어, 국제 거래에서의 정확성과 신뢰성을 크게 향상시켰으며,
-          마지막으로 CS 매출 통합을 통해 CS 처리 과정이 자동화되어 업무 처리 속도가 크게 개선되었고, 수출매출 자료를 일괄 다운로드할 수 있는 기능도 추가하여 효율성을 극대화
+          마지막으로 CS 매출 통합을 통해 CS 처리 과정이 자동화되어 업무 처리 속도가 크게 개선되었고, 수출매출 자료를 일괄 다운로드할 수 있는 기능도 추가하여 효율성을 극대화<br>
           <b>[MES연동]</b><br>
           기존 방식은 생산라인에서 처리되는 양만큼 별도로 ERP에서 기입하여야 했으나, 키오스크나 POP등을 설치하여 MES시스템에서 처리, 연동을 통해 ERP에 데이터 생성으로 더욱 간편하게 구매, 물류, 영업, 생산, 외주 모듈에 대한 데이터를 효율적으로 관리 가능
           MES 데이터 처리로 인해 업무 처리 속도와 정확성이 크게 향상되었으며, 생산 계획 최적화와 외주 공정 개선을 통해 품질 관리와 납기 준수 강화  <br>
