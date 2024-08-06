@@ -1,5 +1,5 @@
 <p align='center'>
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=하루하루%20성장하는%20박민경입니다.😄&fontSize=50&animation=fadeIn&fontAlignY=38&desc=성장형%20개발자&descAlignY=51&descAlign=62"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=하루하루%20성장하는%20박민경입니다.😄&fontSize=50&animation=fadeIn&fontAlignY=38&desc=성장형%20개발자&descAlignY=51&descAlign=50"/>
 </p>
 <br>
 
@@ -12,7 +12,7 @@
 #### [Blog(https://blog.naver.com/pmk_1007)
 <br>
 
-##### 🏢 Career
+<h3> 🏢 Career </h3>
 
 |     PERIOD     |       TITLE       |                               SUBJECT                               |
 |     -------    |  --------------   |                               -------                               | 
@@ -229,12 +229,37 @@
 
 
 
-##### 📖 Study
-
-| PERIOD | TITLE | SUBJECT |
-| ------- | ------- | -------|
-
-
+<h3> 📖 Study </h3>
+<table>
+    <thead>
+        <tr>
+            <th>PERIOD</th>
+            <th>TITLE</th>
+            <th>SUBJECT</th>
+            <th>DETAIL</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>2019.11 ~ 2020.05</td>
+            <td>비트교육센터</td>
+            <td>Windows.NET 전문가 과정</td>
+            <td>
+                - ERP 개발에 필요한 기본적인 기술적, 업무적 이론 학습 및 실습<br>
+                - 데이터베이스 모델링, 데이터베이스 성능 튜닝, MSSQL, 웹 프로그래밍 등
+            </td>
+        </tr>
+        <tr>
+            <td>2022.02 ~ 2022.04</td>
+            <td>티아이에스정보기술교육센터</td>
+            <td>R과 Python을 활용한 빅데이터 분석 및 시각화 과정</td>
+            <td>
+                - R과 Python을 이용하여 데이터 시각화<br>
+                - 공공 데이터를 활용하여 시각화 작업
+            </td>
+        </tr>
+    </tbody>
+</table>
 
 
 
