@@ -177,9 +177,10 @@
                 </tr>
                 <tr>
                     <td class="text-left"></td>
-                    <td class="bold"><b>디스플레이 장비 회사</b><br>프로젝트 계획 대비 실적 확인</td>
-                    <td>사원의 부서, 포지션 기준으로 계획공수를 입력할 수 있는 화면 개발 및 일자별, 부서별 프로젝트 계획 대비 실적 현황 개발</td>
+                    <td class="bold"><b>선빈 업체 회사</b><br>MES 연동 작업</td>
+                    <td>기본정보(품목, BOM, 워크센터, 공정, 사원, 창고, 거래처 등) MES 전달 및 MES에서 처리된 생산 및 외주 데이터 ERP 적재 및 프로세스 진행</td>
                 </tr>
+                
                 <tr>
                     <td class="text-left"></td>
                     <td class="bold"><b>추가중</b></td>
