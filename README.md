@@ -178,9 +178,13 @@
                 <tr>
                     <td class="text-left"></td>
                     <td class="bold"><b>선빈 업체 회사</b><br>MES 연동 작업</td>
-                    <td>기본정보(품목, BOM, 워크센터, 공정, 사원, 창고, 거래처 등) MES 전달 및 MES에서 처리된 생산 및 외주 데이터 ERP 적재 및 프로세스 진행</td>
+                    <td>기본정보(품목, BOM, 워크센터, 공정, 사원, 창고, 거래처 등) MES 전달 및 MES에서 처리된 생산 및 외주 데이터 ERP 적재 및 프로세스 진행과 모니터링 화면 제공</td>
                 </tr>
-                
+                <tr>
+                    <td class="text-left"></td>
+                    <td class="bold"><b>디스플레이 패널 제작 업체</b><br>일괄 전표 생성</td>
+                    <td>이어카운팅에서 전달 받은 전표 데이터를 ERP상에 저장 및 이후 프로세스 처리와 모니터링 화면 제공</td>
+                </tr>
                 <tr>
                     <td class="text-left"></td>
                     <td class="bold"><b>추가중</b></td>
