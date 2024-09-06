@@ -184,7 +184,17 @@
                     <td class="text-left"></td>
                     <td class="bold"><b>디스플레이 패널 제작 업체</b><br>일괄 전표 생성</td>
                     <td>이어카운팅에서 전달 받은 전표 데이터를 ERP상에 저장 및 이후 프로세스 처리와 모니터링 화면 제공</td>
-                </tr>                
+                </tr>     
+                <tr>
+                    <td class="text-left"></td>
+                    <td class="bold"><b>반도체 공정품 생산업체</b><br>생산의뢰중단기능추가</td>
+                    <td>생산 담당자가 중단기능을 이용하여 중단 시 더이상 프로세스 진행할 수 없도록 통제</td>
+                </tr>  
+                <tr>
+                    <td class="text-left"></td>
+                    <td class="bold"><b>반도체, LCD 공정장치 제조업체</b><br>전자세금계산서 연동 및 ERP 전표 데이터 매핑</td>
+                    <td>10개 모듈(수입/수출, 외주정산, 자산처분, 매출정산, 세금계산서(청구/애출) 등) 효성 데이터와 연결처리</td>
+                </tr>
             </tbody>
         </table>
       </ul>
