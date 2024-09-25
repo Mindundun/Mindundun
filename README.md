@@ -177,7 +177,7 @@
                 </tr>
                 <tr>
                     <td class="text-left"></td>
-                    <td class="bold"><b>선빈 업체 회사</b><br>MES 연동 작업</td>
+                    <td class="bold"><b>선반 업체 회사</b><br>MES 연동 작업</td>
                     <td>기본정보(품목, BOM, 워크센터, 공정, 사원, 창고, 거래처 등) MES 전달 및 MES에서 처리된 생산 및 외주 데이터 ERP 적재 및 프로세스 진행과 모니터링 화면 제공</td>
                 </tr>
                 <tr>
@@ -194,6 +194,11 @@
                     <td class="text-left"></td>
                     <td class="bold"><b>반도체, LCD 공정장치 제조업체</b><br>전자세금계산서 연동 및 ERP 전표 데이터 매핑</td>
                     <td>10개 모듈(수입/수출, 외주정산, 자산처분, 매출정산, 세금계산서(청구/애출) 등) 효성 데이터와 연결처리</td>
+                </tr>
+                <tr>
+                    <td class="text-left"></td>
+                    <td class="bold"><b>주방용품 제조업체</b><br>WMS 연동</td>
+                    <td>출하, 구매, 이동 모듈과 WMS 연동</td>
                 </tr>
             </tbody>
         </table>
