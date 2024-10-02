@@ -200,6 +200,11 @@
                     <td class="bold"><b>주방용품 제조업체</b><br>WMS 연동</td>
                     <td>출하, 구매, 이동 모듈과 WMS 연동</td>
                 </tr>
+                <tr>
+                    <td class="text-left"></td>
+                    <td class="bold"><b>식품 제조 업체</b><br>인사 관련 개발</td>
+                    <td>교역자 근무조서(개인, 전체) 관련 개발</td>
+                </tr>
             </tbody>
         </table>
       </ul>
