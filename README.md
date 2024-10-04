@@ -202,7 +202,7 @@
                 </tr>
                 <tr>
                     <td class="text-left"></td>
-                    <td class="bold"><b>식품 제조 업체</b><br>인사 관련 개발</td>
+                    <td class="bold"><b>식품 제조업체</b><br>인사 관련 개발</td>
                     <td>교역자 근무조서(개인, 전체) 관련 개발</td>
                 </tr>
             </tbody>
