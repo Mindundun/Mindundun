@@ -108,7 +108,7 @@
                 <tr>
                     <td class="text-left"></td>
                     <td>공공 모듈 고도화</td>
-                    <td>공공 산업군 특화로 인한 회계모듈 고도화 작업</td>
+                    <td>공공 산업군 회계모듈 고도화 작업</td>
                 </tr>
                 <tr>
                     <td class="text-left"></td>
