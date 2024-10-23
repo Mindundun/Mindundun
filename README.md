@@ -205,6 +205,21 @@
                     <td class="bold"><b>식품 제조업체</b><br>인사 관련 개발</td>
                     <td>교역자 근무조서(개인, 전체) 관련 개발</td>
                 </tr>
+                <tr>
+                    <td class="text-left"></td>
+                    <td class="bold"><b>제약회사</b> 고도화</td>
+                    <td>생산, 영업, 회계, 인사, 전자결재, 제약솔루션 연동<br><a href="#프로젝트상세">프로젝트 상세내역으로 가기</a></td>
+                </tr>
+                <tr>
+                    <td class="text-left"></td>
+                    <td class="bold"><b>디스플레이업체</b><br>MES 연동 및 고도화</td>
+                    <td>구매 모듈 MES 연동 및 예산, BOM, 구매 모듈 고도화</td>
+                </tr>
+                <tr>
+                    <td class="text-left"></td>
+                    <td class="bold"><b>반도체 제조업체</b><br>구매 고도화</td>
+                    <td>구매 모듈 고도화</td>
+                </tr>
             </tbody>
         </table>
       </ul>
