@@ -67,6 +67,7 @@ SQL(MSSQL, MySQL) / JAVA / C# / Python(Numpy, Pandas, Matplotlib), R
         <tr>
             <th>PERIOD</th>
             <th>EDUCATIONAL INSTITUTION</th>
+            <th>AUDIENCE</th>
             <th>SUBJECT</th>
             <th>DETAIL</th>
         </tr>
@@ -75,6 +76,7 @@ SQL(MSSQL, MySQL) / JAVA / C# / Python(Numpy, Pandas, Matplotlib), R
         <tr>
             <td>2021.08</td>
             <td>영림원소프트랩</td>
+            <td>내부 교육</td>
             <td>11기 개발자 양성 과정 강의</td>
             <td>
                 - DBMS의 개념과 특징 및 데이터베이스 설계 및 모델링 방법과 DDL, DML, DCL 명령어 사용법 교육
@@ -83,6 +85,7 @@ SQL(MSSQL, MySQL) / JAVA / C# / Python(Numpy, Pandas, Matplotlib), R
         <tr>
             <td>2022.08</td>
             <td>영림원소프트랩</td>
+            <td>내부 교육</td>
             <td>14기 개발자 양성 과정 강의</td>
             <td>
                 - DBMS의 개념과 특징 및 데이터베이스 설계 및 모델링 방법과 DDL, DML, DCL 명령어 사용법 교육
@@ -91,14 +94,16 @@ SQL(MSSQL, MySQL) / JAVA / C# / Python(Numpy, Pandas, Matplotlib), R
         <tr>
             <td>2024.01</td>
             <td>영림원소프트랩</td>
+            <td>내부 교육</td>
             <td>16기 개발자 양성 과정 강의</td>
             <td>
-                - DBMS의 개념과 특징 및 데이터베이스 설계 및 모델링 방법과 DDL, DML, DCL 명령어 사용법 교육
+                - DBMS 전반적인 복습과 ERP 개발 시 반드시 필요한 개발 스킬을 교육함
             </td>
         </tr>
         <tr>
-            <td>2024.01</td>
+            <td>2022.06</td>
             <td>영림원소프트랩</td>
+            <td>외부 교육</td>
             <td>사용자 교육 강의</td>
             <td>
                 - ERP 화면 개발 시 반드시 필요한 개발 스킬을 교육함
@@ -106,18 +111,20 @@ SQL(MSSQL, MySQL) / JAVA / C# / Python(Numpy, Pandas, Matplotlib), R
         </tr>
         <tr>
             <td>2022.09</td>
-            <td>영림원소프트랩</td>
-            <td>16기 개발자 양성 과정 강의</td>
+            <td>영림원소프트랩</td>            
+            <td>외부 교육</td>
+            <td>사용자 교육 강의</td>
             <td>
                 - ERP 출력물 개발 시 반드시 필요한 개발 스킬을 교육함
             </td>
         </tr>
         <tr>
             <td>2024.07</td>
-            <td>영림원소프트랩</td>
-            <td>16기 개발자 양성 과정 강의</td>
+            <td>영림원소프트랩</td>            
+            <td>외부 교육</td>
+            <td>사용자 교육 강의</td>
             <td>
-                - DBMS 전반적인 복습과 ERP 개발 시 반드시 필요한 개발 스킬을 교육함
+                - ERP 출력물 개발 시 반드시 필요한 개발 스킬을 교육함
             </td>
         </tr>
     </tbody>
