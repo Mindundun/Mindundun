@@ -106,7 +106,7 @@ SQL(MSSQL, MySQL) / JAVA / C# / Python(Numpy, Pandas, Matplotlib), R
             <td>외부 교육</td>
             <td>사용자 교육 강의</td>
             <td>
-                - ERP 화면 개발 시 반드시 필요한 개발 스킬을 교육함
+                - ERP 화면 개발 시 필요한 개발 스킬을 교육함
             </td>
         </tr>
         <tr>
@@ -115,7 +115,7 @@ SQL(MSSQL, MySQL) / JAVA / C# / Python(Numpy, Pandas, Matplotlib), R
             <td>외부 교육</td>
             <td>사용자 교육 강의</td>
             <td>
-                - ERP 출력물 개발 시 반드시 필요한 개발 스킬을 교육함
+                - ERP 출력물 개발 시 필요한 개발 스킬을 교육함
             </td>
         </tr>
         <tr>
@@ -124,7 +124,7 @@ SQL(MSSQL, MySQL) / JAVA / C# / Python(Numpy, Pandas, Matplotlib), R
             <td>외부 교육</td>
             <td>사용자 교육 강의</td>
             <td>
-                - ERP 출력물 개발 시 반드시 필요한 개발 스킬을 교육함
+                - ERP 출력물 개발 시 필요한 개발 스킬을 교육함
             </td>
         </tr>
     </tbody>
