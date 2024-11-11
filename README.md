@@ -291,7 +291,9 @@ SQL(MSSQL, MySQL) / JAVA / C# / Python(Numpy, Pandas, Matplotlib), R
                 <tr>
                     <td class="text-left"></td>
                     <td class="bold"><b>선반 업체 회사</b><br>MES 연동 작업</td>
-                    <td>기본정보(품목, BOM, 워크센터, 공정, 사원, 창고, 거래처 등) MES 전달 및 MES에서 처리된 생산 및 외주 데이터 ERP 적재 및 프로세스 진행과 모니터링 화면 제공</td>
+                    <td>기본정보(품목, BOM, 워크센터, 공정, 사원, 창고, 거래처 등) MES 전달 및 MES에서 처리된 생산 및 외주 데이터 ERP 적재 및 프로세스 진행과 모니터링 화면 제공<br>
+                        <a href="#프로젝트상세">프로젝트 상세내역으로 가기</a>
+                    </td>
                 </tr>
                 <tr>
                     <td class="text-left"></td>
@@ -345,18 +347,26 @@ SQL(MSSQL, MySQL) / JAVA / C# / Python(Numpy, Pandas, Matplotlib), R
   - 업무성과<br>
 
   1. 법인카드 사용내역 분할 결제 개발<br>
-    &nbsp;&nbsp;&nbsp;1-1) 법인카드 전표 작성 시 계정과목 선택 기능 추가 → 사용자의 편리함과 데이터 관리의 유연성 강화<br>
-    &nbsp;&nbsp;&nbsp;1-2) 주문번호를 통해 매출처 조회 화면 개발 → 법인카드 회계전표의 검토 및 확인 과정을 신속하고 정확하게 처리할 수 있도록 개선<br>
-    &nbsp;&nbsp;&nbsp;1-3) 회계상의 미지급금과 법인카드 청구내역 비교 화면 개발 → 법인/개인 구분, 카드 종류, 카드명 등으로 검색할 수 있는 기능을 제공하여 사용자 편의성 향상에 기여<br>
+    &nbsp;&nbsp;&nbsp;1-1) 법인카드 전표 작성 시 계정과목 선택 기능 추가<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→ 사용자의 편리함과 데이터 관리의 유연성 강화<br>
+    &nbsp;&nbsp;&nbsp;1-2) 주문번호를 통해 매출처 조회 화면 개발 <br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→ 법인카드 회계전표의 검토 및 확인 과정을 신속하고 정확하게 처리할 수 있도록 개선<br>
+    &nbsp;&nbsp;&nbsp;1-3) 회계상의 미지급금과 법인카드 청구내역 비교 화면 개발<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; → 법인/개인 구분, 카드 종류, 카드명 등으로 검색할 수 있는 기능을 제공하여 사용자 편의성 향상에 기여<br>
   
-  2. 예산 모듈 개발<br>
-    &nbsp;&nbsp;&nbsp;2-1) 예산과목별 실적 상세 조회 기능 개발 → 예산 집행 현황을 면밀하게 분석하고 관리할 수 있도록 지원<br>
-    &nbsp;&nbsp;&nbsp;2-2) 사업계획별 예산 수립 현황 시각화 화면 개발 → 예산 관리 및 계획 수립의 투명성을 높이고 의사 결정에 필요한 정보를 효과적으로 제공<br>
-    &nbsp;&nbsp;&nbsp;2-3) 활동일자별 영업활동 내역 조회 후 청구 시 근무지 컬럼 추가 → 예산 정의 내용을 시각적으로 확인할 수 있는 화면을 개발하여 예산 청구의 정확성과 데이터 관리의 신뢰성 향상<br>
+  3. 예산 모듈 개발<br>
+    &nbsp;&nbsp;&nbsp;2-1) 예산과목별 실적 상세 조회 기능 개발 <br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→ 예산 집행 현황을 면밀하게 분석하고 관리할 수 있도록 지원<br>
+    &nbsp;&nbsp;&nbsp;2-2) 사업계획별 예산 수립 현황 시각화 화면 개발 <br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→ 예산 관리 및 계획 수립의 투명성을 높이고 의사 결정에 필요한 정보를 효과적으로 제공<br>
+    &nbsp;&nbsp;&nbsp;2-3) 활동일자별 영업활동 내역 조회 후 청구 시 근무지 컬럼 추가 <br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→ 예산 정의 내용을 시각적으로 확인할 수 있는 화면을 개발하여 예산 청구의 정확성과 데이터 관리의 신뢰성 향상<br>
   
-  3. 기간계 모듈 개선<br>
-    &nbsp;&nbsp;&nbsp;3-1) 구매입고 주문서 반영 여부 확인 화면 개발 → 구매정산 처리의 정확성과 효율성 향상<br>
-    &nbsp;&nbsp;&nbsp;3-2) 영업활동비 자동 계산 기능 수정 → 영업활동 사원별 별도의 정보 입력 없이 자동 계산되어 업무 효율성 향상 및 데이터 입력 오류 감소 지원<br>
+  5. 기간계 모듈 개선<br>
+    &nbsp;&nbsp;&nbsp;3-1) 구매입고 주문서 반영 여부 확인 화면 개발 <br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→ 구매정산 처리의 정확성과 효율성 향상<br>
+    &nbsp;&nbsp;&nbsp;3-2) 영업활동비 자동 계산 기능 수정 <br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→ 영업활동 사원별 별도의 정보 입력 없이 자동 계산되어 업무 효율성 향상 및 데이터 입력 오류 감소 지원<br>
 </p>
 
 <b>2. 프로젝트명 : 의료기계회사 고도화 및 MES 연동</b>
@@ -366,21 +376,61 @@ SQL(MSSQL, MySQL) / JAVA / C# / Python(Numpy, Pandas, Matplotlib), R
   - 업무성과<br>
 
   1. 수출 및 CS 처리 기능 개선<br>
-    &nbsp;&nbsp;&nbsp;1-1) 수출 시 문서 자동 출력 기능 개발 → 별도로 문서를 작성하지 않아도 출력하여 사용할 수 있도록 개선<br>
-    &nbsp;&nbsp;&nbsp;1-2) 구매 품목과 기존 자재 상세 조회 기능 추가 → 구매한 품목과 기존 자재를 상세하게 확인할 수 있도록 개선<br>
-    &nbsp;&nbsp;&nbsp;1-3) 내수/수출 유·무상 처리 기능 추가 → CS에서 내수 및 수출에 대한 유/무상 처리를 동시에 할 수 있도록 편의성 증가<br>
-    &nbsp;&nbsp;&nbsp;1-4) 다중조건 조회 기능 추가 → 구매 및 외주 관련 데이터를 더욱 효율적으로 관리할 수 있도록 개선<br>
-    &nbsp;&nbsp;&nbsp;1-5) 수출 Invoice 출력 시 거래처 품명 및 품번 정확히 반영 → 국제 거래에서의 정확성과 신뢰성 향상<br>
-    &nbsp;&nbsp;&nbsp;1-6) CS 매출 통합 및 자동화 → CS 처리 과정 자동화로 업무 처리 속도 개선<br>
-    &nbsp;&nbsp;&nbsp;1-7) 수출 매출 자료 일괄 다운로드 기능 추가 → 수출 매출 자료를 한 번에 다운로드할 수 있어 효율성 극대화<br>
+    &nbsp;&nbsp;&nbsp;1-1) 수출 시 문서 자동 출력 기능 개발<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→ 별도로 문서를 작성하지 않아도 출력하여 사용할 수 있도록 개선<br>
+    &nbsp;&nbsp;&nbsp;1-2) 구매 품목과 기존 자재 상세 조회 기능 추가<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→ 구매한 품목과 기존 자재를 상세하게 확인할 수 있도록 개선<br>
+    &nbsp;&nbsp;&nbsp;1-3) 내수/수출 유·무상 처리 기능 추가<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→ CS에서 내수 및 수출에 대한 유/무상 처리를 동시에 할 수 있도록 편의성 증가<br>
+    &nbsp;&nbsp;&nbsp;1-4) 다중조건 조회 기능 추가<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→ 구매 및 외주 관련 데이터를 더욱 효율적으로 관리할 수 있도록 개선<br>
+    &nbsp;&nbsp;&nbsp;1-5) 수출 Invoice 출력 시 거래처 품명 및 품번 정확히 반영<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→ 국제 거래에서의 정확성과 신뢰성 향상<br>
+    &nbsp;&nbsp;&nbsp;1-6) CS 매출 통합 및 자동화<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→ CS 처리 과정 자동화로 업무 처리 속도 개선<br>
+    &nbsp;&nbsp;&nbsp;1-7) 수출 매출 자료 일괄 다운로드 기능 추가<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→ 수출 매출 자료를 한 번에 다운로드할 수 있어 효율성 극대화<br>
   
-  2. MES 연동 기능 개선<br>
-    &nbsp;&nbsp;&nbsp;2-1) 기존 ERP 수기 입력 방식 개선 → 키오스크나 POP 설치를 통해 MES 시스템에서 처리하고, 이를 ERP와 연동하여 데이터 자동 생성<br>
-    &nbsp;&nbsp;&nbsp;2-2) 구매, 물류, 영업, 생산, 외주 모듈 데이터 효율적 관리 → MES 데이터 연동으로 데이터 처리 효율성 증가<br>
-    &nbsp;&nbsp;&nbsp;2-3) 업무 처리 속도 및 정확성 향상 → MES 연동을 통해 업무 처리 속도와 정확성 크게 향상<br>
-    &nbsp;&nbsp;&nbsp;2-4) 생산 계획 최적화 및 외주 공정 개선 → 품질 관리 및 납기 준수 강화<br>
+  3. MES 연동 기능 개선<br>
+    &nbsp;&nbsp;&nbsp;2-1) 기존 ERP 수기 입력 방식 개선<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→ 키오스크나 POP 설치를 통해 MES 시스템에서 처리하고, 이를 ERP와 연동하여 데이터 자동 생성<br>
+    &nbsp;&nbsp;&nbsp;2-2) 구매, 물류, 영업, 생산, 외주 모듈 데이터 효율적 관리<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→ MES 데이터 연동으로 데이터 처리 효율성 증가<br>
+    &nbsp;&nbsp;&nbsp;2-3) 업무 처리 속도 및 정확성 향상<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→ MES 연동을 통해 업무 처리 속도와 정확성 크게 향상<br>
+    &nbsp;&nbsp;&nbsp;2-4) 생산 계획 최적화 및 외주 공정 개선<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→ 품질 관리 및 납기 준수 강화<br>
 </p>
+<b>3. 프로젝트명 : 선반업체회사 MES 도입 </b>
+<p>
+  - 수행기간 : 2023.03 ~ 2024.02<br>
+  - 내 역할 : 기본정보 데이터 및 MES와 ERP 데이터 연동과 이기종 DB 연동을 위한 ODBC(Open Database Connectivity) 설정 작업 진행<br>
+  - 업무성과<br>
 
+  1. 작업지시 및 외주발주 자동화<br>
+    &nbsp;&nbsp;&nbsp;1-1) 작업지시 등록 자동화<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→ MES에서 처리된 작업지시 데이터를 ERP 시스템에 자동으로 등록할 수 있게 되어, 별도의 수동 등록 절차 없이 스케줄러를 통해 작업을 자동으로 처리할 수 있도록 개선<br>
+    &nbsp;&nbsp;&nbsp;1-2) 외주발주 자동화<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→ MES에서 발생한 외주발주 데이터를 ERP 시스템에 자동으로 연동, 별도로 등록하지 않아도 ERP에서 외주발주가 자동으로 처리되도록 개선<br>
+    
+  3. 이동처리 및 자재 관리 효율화<br>
+    &nbsp;&nbsp;&nbsp;2-1) 이동처리 자동화<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→ MES에서 발생한 이동처리 데이터를 ERP 시스템에 자동으로 연동하여 재고 이동 및 자산 관리를 실시간으로 반영할 수 있도록 개선<br>
+    &nbsp;&nbsp;&nbsp;2-2) 자재투입 및 외주자재투입 관리<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→ 생산에 필요한 자재투입 및 외주 자재투입 데이터가 MES에서 ERP 시스템으로 자동 연동되어, 자재 관리의 정확성과 효율성을 높임<br>
+    
+  5. 실시간 모니터링 화면 도입<br>
+    &nbsp;&nbsp;&nbsp;3-1) 문제 발생 시 알림<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→ 실시간 모니터링 화면을 통해 생산 현황, 외주 진행 상태, 자재 입출고 현황 등을 실시간으로 확인하고, 문제 발생 시 즉각적인 대응이 가능하도록 개선<br>
+    &nbsp;&nbsp;&nbsp;3-2) 운영 상태 직관적 확인<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→ 사용자들이 어디에서 문제가 발생했는지, 어떤 부분을 우선적으로 확인해야 하는지 직관적으로 파악할 수 있도록 모니터링 화면을 개선하여 운영 효율성을 높임<br>
+    
+7. 기타 세부 성과<br>
+    &nbsp;&nbsp;&nbsp;ODBC 연동을 통해 이기종 DB(다양한 데이터베이스 간 연결)를 처리하여 MES와 ERP 시스템 간의 실시간 데이터 흐름을 원활하게 구현<br>
+    &nbsp;&nbsp;&nbsp;데이터 통합을 통해 실시간 생산 정보 및 자재 관리가 가능해져, 생산성과 정확성이 크게 향상<br>
+    &nbsp;&nbsp;&nbsp;스케줄러 기반 자동화로 인한 업무 시간 절약과 인적 오류 감소<br>
+    &nbsp;&nbsp;&nbsp;모니터링 화면 도입으로 실시간으로 발생하는 문제를 빠르게 파악하고 해결할 수 있어 운영팀의 업무 효율성 및 대응 속도가 개선됨<br>
+</p>
 
 
 
