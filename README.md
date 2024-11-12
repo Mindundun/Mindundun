@@ -339,7 +339,6 @@ SQL(MSSQL, MySQL) / JAVA / C# / Python(Numpy, Pandas, Matplotlib), R
         </table>
       </ul>
     <h2>프로젝트상세</h2>
-
 <b>1. 프로젝트명 : 제약회사 회계 및 기간계 모듈 고도화</b>
 <p>
   - 수행기간 : 2021.08 ~ 2022.02<br>
