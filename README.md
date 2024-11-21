@@ -40,7 +40,7 @@ SQL(MSSQL, MySQL) / JAVA / C# / Python(Numpy, Pandas, Matplotlib), R
         <tr>
             <td>2019.11 ~ 2020.05</td>
             <td>비트교육센터</td>
-            <td>Windows.NET 전문가 과정</td>
+            <td>Windows.NET 전문가과정</td>
             <td>
                 - ERP 개발에 필요한 기본적인 기술적, 업무적 이론 학습 및 실습<br>
                 - 데이터베이스 모델링, 데이터베이스 성능 튜닝, MSSQL, 웹 프로그래밍 등
