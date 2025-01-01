@@ -59,8 +59,6 @@ SQL(MSSQL, MySQL) / JAVA / C# / Python(Numpy, Pandas, Matplotlib), R
 </table>
 
 
-
-
 <h3> 🎤 Taught </h3>
 <table>
     <thead>
