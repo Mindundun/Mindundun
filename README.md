@@ -127,8 +127,6 @@ SQL(MSSQL, MySQL) / JAVA / C# / Python(Numpy, Pandas, Matplotlib), R
         </tr>
     </tbody>
 </table>
-
-
   <h2>Career 상세 포트폴리오</h2>
     <p>
       <ul>
@@ -352,8 +350,7 @@ SQL(MSSQL, MySQL) / JAVA / C# / Python(Numpy, Pandas, Matplotlib), R
                     <td class="text-left"></td>
                     <td class="bold"><b>화장품 및 유통업체</b><br>쇼핑몰 연동<br></td>
                     <td>플레이오토 데이터 주문 및 상품 수집하여 ERP 연동 개발<a href="#프로젝트상세">프로젝트 상세내역으로 가기</a></td>
-                </tr>
-                
+                </tr>              
             </tbody>
         </table>
       </ul>
