@@ -81,24 +81,6 @@ SQL(MSSQL, MySQL) / JAVA / C# / Python(Numpy, Pandas, Matplotlib), R
             </td>
         </tr>
         <tr>
-            <td>2022.08</td>
-            <td>영림원소프트랩</td>
-            <td>내부 교육</td>
-            <td>14기 개발자 양성 과정 강의</td>
-            <td>
-                - DBMS의 개념과 특징 및 데이터베이스 설계 및 모델링 방법과 DDL, DML, DCL 명령어 사용법 교육
-            </td>
-        </tr>
-        <tr>
-            <td>2024.01</td>
-            <td>영림원소프트랩</td>
-            <td>내부 교육</td>
-            <td>16기 개발자 양성 과정 강의</td>
-            <td>
-                - DBMS 전반적인 복습과 ERP 개발 시 반드시 필요한 개발 스킬을 교육함
-            </td>
-        </tr>
-        <tr>
             <td>2022.06</td>
             <td>영림원소프트랩</td>
             <td>외부 교육</td>
@@ -108,12 +90,30 @@ SQL(MSSQL, MySQL) / JAVA / C# / Python(Numpy, Pandas, Matplotlib), R
             </td>
         </tr>
         <tr>
+            <td>2022.08</td>
+            <td>영림원소프트랩</td>
+            <td>내부 교육</td>
+            <td>14기 개발자 양성 과정 강의</td>
+            <td>
+                - DBMS의 개념과 특징 및 데이터베이스 설계 및 모델링 방법과 DDL, DML, DCL 명령어 사용법 교육
+            </td>
+        </tr>
+        <tr>
             <td>2022.09</td>
             <td>영림원소프트랩</td>            
             <td>외부 교육</td>
             <td>사용자 교육 강의</td>
             <td>
                 - ERP 출력물 개발 시 필요한 개발 스킬을 교육함
+            </td>
+        </tr>
+        <tr>
+            <td>2024.01</td>
+            <td>영림원소프트랩</td>
+            <td>내부 교육</td>
+            <td>16기 개발자 양성 과정 강의</td>
+            <td>
+                - DBMS 전반적인 복습과 ERP 개발 시 반드시 필요한 개발 스킬을 교육함
             </td>
         </tr>
         <tr>
@@ -333,6 +333,27 @@ SQL(MSSQL, MySQL) / JAVA / C# / Python(Numpy, Pandas, Matplotlib), R
                     <td class="bold"><b>반도체 제조업체</b><br>구매 고도화</td>
                     <td>구매품의 및 구매발주 고도화</td>
                 </tr>
+                <tr>
+                    <td class="text-left"></td>
+                    <td class="bold"><b>미용제품 제조업체</b><br>통합원가조회화면 개발 등</td>
+                    <td>통합원가조회화면 및 출하의뢰 출력물 개발</td>
+                </tr>
+                <tr>
+                    <td class="text-left"></td>
+                    <td class="bold"><b>측정 및 분석 제조업체</b><br>전표 출력물 고도화</td>
+                    <td>전표 출력물 승인 라인 추가하여 내부통제 강화</td>
+                </tr>
+                <tr>
+                    <td class="text-left"></td>
+                    <td class="bold"><b>2차전지 회로</b><br>자재 고도화</td>
+                    <td>자재 MSL 재고 과잉 및 부족 방지</td>
+                </tr>
+                <tr>
+                    <td class="text-left"></td>
+                    <td class="bold"><b>화장품 및 유통업체</b><br>쇼핑몰 연동<br></td>
+                    <td>플레이오토 데이터 주문 및 상품 수집하여 ERP 연동 개발<a href="#프로젝트상세">프로젝트 상세내역으로 가기</a></td>
+                </tr>
+                
             </tbody>
         </table>
       </ul>
@@ -422,11 +443,43 @@ SQL(MSSQL, MySQL) / JAVA / C# / Python(Numpy, Pandas, Matplotlib), R
     &nbsp;&nbsp;&nbsp;3-2) 운영 상태 직관적 확인<br>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→ 사용자들이 어디에서 문제가 발생했는지, 어떤 부분을 우선적으로 확인해야 하는지 직관적으로 파악할 수 있도록 모니터링 화면을 개선하여 운영 효율성을 높임<br>
     
-7. 기타 세부 성과<br>
+  7. 기타 세부 성과<br>
     &nbsp;&nbsp;&nbsp;ODBC 연동을 통해 이기종 DB(다양한 데이터베이스 간 연결)를 처리하여 MES와 ERP 시스템 간의 실시간 데이터 흐름을 원활하게 구현<br>
     &nbsp;&nbsp;&nbsp;데이터 통합을 통해 실시간 생산 정보 및 자재 관리가 가능해져, 생산성과 정확성이 크게 향상<br>
     &nbsp;&nbsp;&nbsp;스케줄러 기반 자동화로 인한 업무 시간 절약과 인적 오류 감소<br>
     &nbsp;&nbsp;&nbsp;모니터링 화면 도입으로 실시간으로 발생하는 문제를 빠르게 파악하고 해결할 수 있어 운영팀의 업무 효율성 및 대응 속도가 개선됨<br>
+</p>
+<b>4. 프로젝트명 : 화장품 및 유통업체 플레이오토(쇼핑몰) 연동 </b>
+<p>
+  - 수행기간 : 2024.04 ~ 2025.05<br>
+  - 내 역할 : 주문, 상품 데이터 수집할 수 있도록 C#으로 DLL 개발 및 ERP 내 데이터 생성<br>
+  - 업무성과<br>
+
+  1. 플레이오토 연동 및 주문 처리 시스템 개선<br>
+    &nbsp;&nbsp;&nbsp;1-1) 상품 및 주문 데이터 수집 기능 개발<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→ 플레이오토에 등록된 상품과 주문 데이터를 ERP 시스템으로 수집할 수 있도록 기능을 개발.<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→ 사용자가 원하는 조건(전체, 수집완료, 반품완료 등)을 선택하여 버튼 클릭만으로 해당 데이터를 수집할 수 있게 개선.<br>
+    &nbsp;&nbsp;&nbsp;1-2) ERP 데이터 매핑 및 생성 기능<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→ 수집된 상품 및 주문 데이터를 ERP 시스템에 적합하게 매핑하여, 별도의 수동 입력 없이 ERP 내에서 자동으로 처리될 수 있도록 기능을 구현.<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→고객사는 번거로운 데이터 등록 절차 없이 손쉽게 ERP에 반영할 수 있게 됨.<br>
+    
+  2. 업무 효율성 및 고객사 만족도 향상<br>
+    &nbsp;&nbsp;&nbsp;2-1) 조건별 데이터 수집 기능으로 사용자 편의성 증대<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→ 사용자가 수집하고자 하는 조건을 선택한 후 버튼을 클릭하면 원하는 데이터만 효율적으로 수집할 수 있어, 수동 작업을 최소화하고 사용자 편의성을 크게 향상시킴.<br>
+    &nbsp;&nbsp;&nbsp;2-2) 업무 프로세스 개선 및 고객사 만족도 향상<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→ 고객사는 ERP 시스템에 데이터를 수동으로 입력하지 않아도 되어, 업무 시간을 절약하고 데이터 오류를 줄임.<br>
+    
+  3. 배송비 연동 및 전표 발행 지원<br>
+    &nbsp;&nbsp;&nbsp;3-1) 배송비 연동 기능 개발<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→ 주문 건에 대한 배송비 데이터를 플레이오토에서 ERP 시스템으로 연동하여, 고객사가 별도의 수작업 없이 ERP에서 배송비를 자동으로 반영할 수 있도록 개발<br>
+    &nbsp;&nbsp;&nbsp;3-2) 배송비 데이터 기반으로 전표 발행<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→ ERP 시스템 내에서 주문금액, 원가, 부가세, 배송비 등을 모두 반영하여, 고객사가 전표를 처리할 수 있도록 개선. <br>
+    
+  4. 업무 효율성 및 고객사 만족도 향상<br>
+    &nbsp;&nbsp;&nbsp;4-1) 업무 프로세스 개선 및 사용자 편의성 증대<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→ 사용자는 버튼 클릭만으로 조건에 맞는 주문 데이터를 수집하고, 상품 원가와 금액/부가세를 자동으로 계산<br>
+    &nbsp;&nbsp;&nbsp;4-2) 고객사 업무 효율성 및 만족도 향상<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→ 고객사는 주문 건에 대한 원가 계산, 세금 처리, 배송비 연동 및 전표 발행을 모두 자동화하여, 수작업을 최소화하고 전반적인 업무 효율성 제고<br>
 </p>
 
 
