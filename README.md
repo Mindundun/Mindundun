@@ -350,7 +350,72 @@ SQL(MSSQL, MySQL) / JAVA / C# / Python(Numpy, Pandas, Matplotlib), R
                     <td class="text-left"></td>
                     <td class="bold"><b>화장품 및 유통업체</b><br>쇼핑몰 연동<br></td>
                     <td>플레이오토 데이터 주문 및 상품 수집하여 ERP 연동 개발<a href="#프로젝트상세">프로젝트 상세내역으로 가기</a></td>
-                </tr>              
+                </tr>  
+                <tr>
+                    <td class="text-left"></td>
+                    <td class="bold"><b>자동차 부품 제조업체</b><br>구매 WMS 연동<br></td>
+                    <td>WMS 툴에서 데이터를 받아와 ERP와 연동한 후 ERP 데이터 생성</td>
+                </tr> 
+                <tr>
+                    <td class="text-left"></td>
+                    <td class="bold"><b>반도체 제조 업체</b><br>작업지시서 개발<br></td>
+                    <td>제품 별 SerialNo로 관리할 수 있또록 작업지시 개발</td>
+                </tr> 
+                <tr>
+                    <td class="text-left"></td>
+                    <td class="bold"><b>컴퓨터 프린터 제조업체</b><br>자재 및 생산 추가개발<br></td>
+                    <td>구매요청 시 특정 자재가 투입 및 처리/소요자재에 따른 구매요청 처리 개발</td>
+                </tr> 
+                <tr>
+                    <td class="text-left"></td>
+                    <td class="bold"><b>금속품 제조 업체</b><br>전표 첨부파일 및 출납 추가개발<br></td>
+                    <td>특정 사용자만 전표 첨부파일을 관리할 수 있도록 권한 작업 및 출납 시 정보성 데이터 추가</td>
+                </tr> 
+                <tr>
+                    <td class="text-left"></td>
+                    <td class="bold"><b>의약품 도매업체</b><br>전자결재 및 일부 화면 추가개발<br></td>
+                    <td>전자결재 업체와 협업 후 전자결재 처리 작업 및 의약품 도매 시 필요한 문서 추가개발</td>
+                </tr> 
+                <tr>
+                    <td class="text-left"></td>
+                    <td class="bold"><b>전자금융,교통카드시스템업체</b><br>일일거래내역 조회 및 입출금처리<br></td>
+                    <td>일일거래내역 조회 및 입출금처리와 전표처리 기능 추가</td>
+                </tr> 
+                <tr>
+                    <td class="text-left"></td>
+                    <td class="bold"><b>비디오 및 기타 영상기기 제조업체</b><br>자재수급계획 추가개발<br></td>
+                    <td>본사 외부창고에서도 자재수급을 진행하며 계획을 조회할 수 있도록 추가 개발</td>
+                </tr> 
+                <tr>
+                    <td class="text-left"></td>
+                    <td class="bold"><b>의료용 기기 제조업체</b><br>제품 바코드 라벨 추가개발<br></td>
+                    <td>의료기기 제품 별 바코드 분기 처리 되도록 추가개발</td>
+                </tr> 
+                <tr>
+                    <td class="text-left"></td>
+                    <td class="bold"><b>생활용품 도매업체</b><br>도번/구품번 추가개발<br></td>
+                    <td>각 제품 별 도번/구품번을 추가하여 효율적으로 관리할 수 있도록 개발</td>
+                </tr> 
+                <tr>
+                    <td class="text-left"></td>
+                    <td class="bold"><b>IT 솔루션 제공 업체</b><br>계산서 연결 추가개발<br></td>
+                    <td>구매외주, 수입비용, 거래명세서에 대해 계산서와 연결 업무/출하의뢰 건 담당자에 메일 발송</td>
+                </tr> 
+                <tr>
+                    <td class="text-left"></td>
+                    <td class="bold"><b>필름 제조업체</b><br>라벨출력 및 파레트 패킹 추가개발<br></td>
+                    <td>각 거래처마다 제품 라벨 개발 및 부닉처리/파레트 별 패킹하여 ERP에 처리할 수 있도록 개발</td>
+                </tr> 
+                <tr>
+                    <td class="text-left"></td>
+                    <td class="bold"><b>배관 및 냉ㆍ난방 공사업체</b><br>수출라벨 추가개발<br></td>
+                    <td>수출 시 필요한 라벨 추가 개발</td>
+                </tr> 
+                <tr>
+                    <td class="text-left"></td>
+                    <td class="bold"><b>기업 컨설팅업체</b><br>근태, 회계 추가개발<br></td>
+                    <td>수입결의 및 원장 개발/근태에 관한 출근현황 및 시간외근무 등 개발</td>
+                </tr> 
             </tbody>
         </table>
       </ul>
@@ -460,7 +525,7 @@ SQL(MSSQL, MySQL) / JAVA / C# / Python(Numpy, Pandas, Matplotlib), R
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→ 수집된 상품 및 주문 데이터를 ERP 시스템에 적합하게 매핑하여, 별도의 수동 입력 없이 ERP 내에서 자동으로 처리될 수 있도록 기능을 구현.<br>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→고객사는 번거로운 데이터 등록 절차 없이 손쉽게 ERP에 반영할 수 있게 됨.<br>
     
-  2. 업무 효율성 및 고객사 만족도 향상<br>
+  2. 사용자 편의성 증대 및 만족도 향상<br>
     &nbsp;&nbsp;&nbsp;2-1) 조건별 데이터 수집 기능으로 사용자 편의성 증대<br>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→ 사용자가 수집하고자 하는 조건을 선택한 후 버튼을 클릭하면 원하는 데이터만 효율적으로 수집할 수 있어, 수동 작업을 최소화하고 사용자 편의성을 크게 향상시킴.<br>
     &nbsp;&nbsp;&nbsp;2-2) 업무 프로세스 개선 및 고객사 만족도 향상<br>
@@ -472,7 +537,7 @@ SQL(MSSQL, MySQL) / JAVA / C# / Python(Numpy, Pandas, Matplotlib), R
     &nbsp;&nbsp;&nbsp;3-2) 배송비 데이터 기반으로 전표 발행<br>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→ ERP 시스템 내에서 주문금액, 원가, 부가세, 배송비 등을 모두 반영하여, 고객사가 전표를 처리할 수 있도록 개선. <br>
     
-  4. 업무 효율성 및 고객사 만족도 향상<br>
+  4. 고객사 업무 효율성 증대 및 만족도 향상<br>
     &nbsp;&nbsp;&nbsp;4-1) 업무 프로세스 개선 및 사용자 편의성 증대<br>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→ 사용자는 버튼 클릭만으로 조건에 맞는 주문 데이터를 수집하고, 상품 원가와 금액/부가세를 자동으로 계산<br>
     &nbsp;&nbsp;&nbsp;4-2) 고객사 업무 효율성 및 만족도 향상<br>
