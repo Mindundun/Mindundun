@@ -11,22 +11,29 @@
 #### [Blog(https://blog.naver.com/pmk_1007)
 <br>
 
+---
+
 <h3> 🏢 Career </h3>
 
-|     PERIOD     |       TITLE       |                               SUBJECT                                              |
-|     -------    |  --------------   |                               -------                                              | 
-|<b>2020.05 -</b>|   **영림원소프트랩**  | **ERP 개발 및 유지보수, 연동업체와 협업 개발(MES, WMS, 쇼핑몰, 그룹웨어 연동)** | 
+|     PERIOD     |       COMPANY       | POSITION |                                                     RESPONSIBILITIES                                                             |
+|     -------    |    --------------   | -------  |             ---------------------------------------------------------------------------------------------------------            | 
+|<b>2020.05 -</b>|  **영림원소프트랩** | **대리** |**-ERP 회계 모듈 개발 및 유지보수<br>-고객사 맞춤형 전 모듈 추가개발<br>-MES, WMS, 쇼핑몰, 그룹웨어 등 외부 시스템 연동 협업** | 
 
-##### 🧩 Skill  
+---
 
-SQL(MSSQL, MySQL) / JAVA / C# / Python(Numpy, Pandas, Matplotlib), R
+### 🧩 Skill  
 
-##### 📜 Certificate
+SQL(MSSQL, MySQL) / JAVA / C# / Python(Numpy, Pandas, Matplotlib), R / JAVA
 
-정보처리기사 / 빅데이터분석기사 / SQLD(SQL개발자) / ADsP(데이터분석준전문가) / DAsP(데이터아키텍처준전문가)/ 네트워크관리사2급 / ERP 정보관리사 1급(인사, 회계, 생산, 물류)
+---
 
+### 📜 Certificate
 
-<h3> 📖 Study </h3>
+정보처리기사 / 빅데이터분석기사 / SQLD(SQL개발자) / ADsP(데이터분석준전문가) / DAsP(데이터아키텍처준전문가)/ 네트워크관리사2급 / ERP 정보관리사 1급(인사, 회계, 생산, 물류) Master
+
+---
+
+<h3> 📖 Educations </h3>
 <table>
     <thead>
         <tr>
@@ -58,6 +65,7 @@ SQL(MSSQL, MySQL) / JAVA / C# / Python(Numpy, Pandas, Matplotlib), R
     </tbody>
 </table>
 
+---
 
 <h3> 🎤 Taught </h3>
 <table>
@@ -86,7 +94,7 @@ SQL(MSSQL, MySQL) / JAVA / C# / Python(Numpy, Pandas, Matplotlib), R
             <td>외부 교육</td>
             <td>사용자 교육 강의</td>
             <td>
-                - ERP 화면 개발 시 필요한 개발 스킬을 교육함
+                - ERP 화면 개발 시 필요한 개발 스킬을 교육
             </td>
         </tr>
         <tr>
@@ -104,7 +112,7 @@ SQL(MSSQL, MySQL) / JAVA / C# / Python(Numpy, Pandas, Matplotlib), R
             <td>외부 교육</td>
             <td>사용자 교육 강의</td>
             <td>
-                - ERP 출력물 개발 시 필요한 개발 스킬을 교육함
+                - ERP 출력물 개발 시 필요한 개발 스킬을 교육
             </td>
         </tr>
         <tr>
@@ -113,7 +121,7 @@ SQL(MSSQL, MySQL) / JAVA / C# / Python(Numpy, Pandas, Matplotlib), R
             <td>내부 교육</td>
             <td>16기 개발자 양성 과정 강의</td>
             <td>
-                - DBMS 전반적인 복습과 ERP 개발 시 반드시 필요한 개발 스킬을 교육함
+                - DBMS 전반적인 복습과 ERP 개발 시 반드시 필요한 개발 스킬을 교육
             </td>
         </tr>
         <tr>
@@ -122,12 +130,166 @@ SQL(MSSQL, MySQL) / JAVA / C# / Python(Numpy, Pandas, Matplotlib), R
             <td>외부 교육</td>
             <td>사용자 교육 강의</td>
             <td>
-                - ERP 출력물 개발 시 필요한 개발 스킬을 교육함
+                - ERP 출력물 개발 시 필요한 개발 스킬을 교육
             </td>
         </tr>
     </tbody>
 </table>
-  <h2>Career 상세 포트폴리오</h2>
+
+---
+<h2>Major Projects</h2>
+    
+<b>1. 프로젝트명 : 제약회사 회계 및 기간계 모듈 고도화</b>
+<p>
+  🗓️ 수행기간<br>
+2021.08 ~ 2022.02<br>
+
+👤 역할<br>
+회계 모듈(법인카드, 예산) 및 기간계 모듈(구매, 영업) 고도화 개발 담당<br>
+
+  💼 주요 업무<br>
+    
+- 법인카드 사용내역 분할 결제 개발<br>
+&nbsp;&nbsp; - 법인카드 전표 작성 시 계정과목 선택 기능 추가 → 사용자의 편리함과 데이터 관리 유연성 강화<br>
+&nbsp;&nbsp; - 주문번호를 통한 매출처 조회 화면 개발 → 회계전표 검토 및 확인 과정 신속·정확 처리<br>
+&nbsp;&nbsp; - 미지급금과 법인카드 청구내역 비교 화면 개발 → 카드 종류, 법인/개인 구분 등 검색 기능 제공으로 사용자 편의성 향상<br>
+
+- 예산 모듈 개발<br>
+&nbsp;&nbsp; - 예산과목별 실적 상세 조회 기능 개발 → 예산 집행 현황 면밀 분석 및 관리 지원<br>
+&nbsp;&nbsp; - 사업계획별 예산 수립 현황 시각화 화면 개발 → 예산 관리 투명성 강화 및 의사결정 지원<br>
+&nbsp;&nbsp; - 활동일자별 영업활동 내역 조회 후 청구 시 근무지 컬럼 추가 → 예산 청구 정확성 및 데이터 신뢰성 향상<br>
+
+- 기간계 모듈 개선<br>
+&nbsp;&nbsp; - 구매입고 주문서 반영 여부 확인 화면 개발 → 구매정산 처리 정확성 및 효율성 증대<br>
+&nbsp;&nbsp; - 영업활동비 자동 계산 기능 수정 → 별도 정보 입력 없이 자동 계산, 업무 효율성 및 오류 감소<br>
+
+✅ 성과<br>
+&nbsp;&nbsp; - 법인카드 회계 처리 과정의 정확성 및 사용자 편의성 크게 향상<br>
+&nbsp;&nbsp; - 예산 집행 및 관리의 투명성 강화로 의사 결정 지원 효율 증대<br>
+&nbsp;&nbsp; - 구매 및 영업활동비 관리 업무의 효율성 개선 및 데이터 오류 감소<br>
+
+🏷️ 키워드<br>
+#법인카드개발 #예산관리 #기간계모듈 #업무효율화 #데이터신뢰성<br>
+</p>
+
+---
+
+<b>2. 프로젝트명 : 의료기계회사 고도화 및 MES 연동</b>
+<p>
+  🗓️ 수행기간<br>
+2022.10 ~ 2023.12<br>
+
+👤 역할<br>
+해외영업, 구매, 자재, CS, 회계 모듈 고도화 및 MES 연동(기본정보, 구매, 물류, 영업, 생산, 외주 송·수신) 개발 담당<br>
+
+💼 주요 업무<br>
+
+- 수출 및 CS 업무 개선<br>
+&nbsp;&nbsp; - 수출 시 문서 자동 출력 기능 개발 → 문서 작성 없이 출력 가능해 업무 편의성 향상<br>
+&nbsp;&nbsp; - 구매 품목과 기존 자재 상세 조회 기능 추가 → 정보 접근성 및 데이터 확인 용이<br>
+&nbsp;&nbsp; - 내수/수출 유·무상 동시 처리 기능 개발 → CS 처리의 유연성 및 실무 효율성 강화<br>
+&nbsp;&nbsp; - 다중조건 조회 기능 추가 → 외주/구매 데이터의 효율적 관리 지원<br>
+&nbsp;&nbsp; - 수출 Invoice 출력 시 거래처 품명·품번 정확히 반영 → 국제 거래의 신뢰성 향상<br>
+&nbsp;&nbsp; - CS 매출 통합 및 자동화 → 처리 속도 및 정확성 향상<br>
+&nbsp;&nbsp; - 수출 매출 자료 일괄 다운로드 기능 추가 → 반복 업무 효율화<br>
+- MES 연동 기능 개선<br>
+&nbsp;&nbsp; - 기존 ERP 수기 입력 방식을 키오스크/POP 기반 자동화 시스템으로 개선<br>
+&nbsp;&nbsp; - 구매, 물류, 영업, 생산, 외주 모듈과의 실시간 데이터 연동 구현<br>
+&nbsp;&nbsp; - 업무 처리 속도 및 정확성 향상, 데이터 누락 및 입력 오류 최소화<br>
+&nbsp;&nbsp; - 생산 계획 최적화 및 외주 공정 개선 → 품질 및 납기 준수율 개선<br>
+
+✅ 성과<br>
+
+- 수출 및 CS 업무 자동화로 처리 속도 및 정확성 향상<br>
+- 반복 업무 감소 및 사용자의 실무 편의성 대폭 개선<br>
+- MES 연동을 통한 데이터 실시간 처리로 생산성 및 품질관리 효율화<br>
+- 외주 및 생산 공정 최적화로 납기 지연 감소 및 품질 문제 예방<br>
+
+🏷️ 키워드<br>
+#수출자동화 #CS프로세스개선 #MES연동 #생산최적화 #외주관리 #ERP고도화 #데이터자동화<br>
+</p>
+
+---
+
+<b>3. 프로젝트명 : 선반업체회사 MES 도입 </b>
+<p>
+    
+  🗓️ 수행기간<br>
+2023.03 ~ 2024.02<br>
+
+👤 역할<br>
+- 기본정보 및 생산 데이터 연동 담당<br>
+- MES ↔ ERP 간 데이터 연동<br>
+- 이기종 DB 연동을 위한 ODBC(Open Database Connectivity) 설정 및 자동화 시스템 구축<br>
+    
+💼 주요 업무<br>
+
+- 작업지시 및 외주발주 자동화<br>
+&nbsp;&nbsp; - MES 작업지시 데이터를 ERP에 자동 등록 → 스케줄러 기반 등록 절차 간소화<br>
+&nbsp;&nbsp; - 외주발주 데이터 자동 연동 → ERP 외주처리 자동화 및 수작업 최소화<br>
+&nbsp;&nbsp; - 이동처리 및 자재 관리 효율화<br>
+&nbsp;&nbsp; - MES 이동처리 데이터 자동 반영 → 재고 및 자산 이동 실시간 처리<br>
+&nbsp;&nbsp; - 자재 및 외주 자재 투입 데이터 연동 → 자재 투입 정확성 및 관리 효율 향상<br>
+- 실시간 모니터링 화면 도입<br>
+&nbsp;&nbsp; - 생산·외주·자재 현황 실시간 확인 및 알림 기능 구축<br>
+&nbsp;&nbsp; - 문제 발생 시 즉시 대응 가능 → 운영팀의 대응 속도 및 업무 효율성 향상<br>
+- 기타 성과<br>
+&nbsp;&nbsp; - ODBC 설정으로 이기종 DB 간 데이터 연동 구현<br>
+&nbsp;&nbsp; - 실시간 정보 통합으로 생산성과 데이터 정확성 향상<br>
+&nbsp;&nbsp; - 업무 자동화로 인적 오류 감소 및 반복 업무 시간 절약<br>
+
+✅ 성과<br>
+-MES-ERP 연동 자동화로 수작업 감소 및 업무 효율성 향상<br>
+-자재 및 생산 데이터의 실시간 처리로 관리 정확도 개선<br>
+-모니터링 시스템 도입으로 문제 발생 시 즉각 대응 가능<br>
+-이기종 DB 통합을 통한 유연한 시스템 아키텍처 구축<br>
+
+🏷️ 키워드<br>
+#MES연동 #ERP자동화 #ODBC설정 #작업지시자동화 #실시간모니터링 #데이터통합 #이기종DB
+</p>
+
+---
+
+<b>4. 프로젝트명 : 화장품 및 유통업체 플레이오토(쇼핑몰) 연동 </b>
+<p>
+  🗓️ 수행기간
+2024.04 ~ 2025.05
+
+👤 역할
+
+- C# 기반 DLL 개발을 통해 플레이오토 상품 및 주문 데이터 수집 기능 구현
+- 수집된 데이터를 ERP 내 자동 매핑 및 생성 처리
+- 배송비 연동 및 전표 자동 작성 기능 개발로 업무 자동화 및 고객 편의성 향상 지원
+
+💼 주요 업무<br>
+
+- 플레이오토 연동 및 주문 처리 자동화<br>
+&nbsp;&nbsp; - 상품·주문 데이터를 조건별로 선택 수집하는 기능 개발<br>
+&nbsp;&nbsp; - ERP 내 자동 매핑 및 주문 데이터 생성 처리 기능 구현<br>
+&nbsp;&nbsp; - 배송비 연동 기능 추가 및 ERP 전표 자동 발행 기능 구축<br>
+- 사용자 편의 기능 강화<br>
+&nbsp;&nbsp; - 버튼 클릭만으로 조건에 맞는 데이터 수집 및 처리 가능하도록 개선<br>
+&nbsp;&nbsp; - ERP에 자동 반영되는 구조를 통해 수작업 절차 제거<br>
+- 고객사 업무 효율 향상<br>
+&nbsp;&nbsp; - ERP 자동화로 주문금액, 원가, 부가세, 배송비 등 실시간 반영<br>
+&nbsp;&nbsp; - 수동 입력 최소화로 업무시간 단축 및 데이터 오류 방지<br>
+
+✅ 성과<br>
+- 데이터 수집 및 주문 처리 자동화로 업무 시간 절약 및 정확도 향상<br>
+- ERP 내 배송비 연동 및 전표 자동화로 회계 업무 편의성 증가<br>
+- 조건별 데이터 수집 기능을 통해 사용자 만족도 및 실무 효율성 향상<br>
+- 고객사의 전체 프로세스 개선으로 고객 만족도 상승 및 반복 업무 감소<br>
+
+🏷️ 키워드<br>
+#플레이오토연동 #CSharpDLL #ERP자동화 #주문데이터수집
+#배송비연동 #전표자동화 #사용자편의기능 #고객사만족도향상
+
+
+</p>
+
+---
+
+  <h2>Project Details</h2>
     <p>
       <ul>
         <table>
@@ -419,130 +581,7 @@ SQL(MSSQL, MySQL) / JAVA / C# / Python(Numpy, Pandas, Matplotlib), R
             </tbody>
         </table>
       </ul>
-    <h2>프로젝트상세</h2>
-<b>1. 프로젝트명 : 제약회사 회계 및 기간계 모듈 고도화</b>
-<p>
-  - 수행기간 : 2021.08 ~ 2022.02<br>
-  - 내 역할 : 회계모듈(법인카드, 예산) 및 기간계모듈(구매, 영업) 모듈 고도화<br>
-  - 업무성과<br>
-
-  1. 법인카드 사용내역 분할 결제 개발<br>
-    &nbsp;&nbsp;&nbsp;1-1) 법인카드 전표 작성 시 계정과목 선택 기능 추가<br>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→ 사용자의 편리함과 데이터 관리의 유연성 강화<br>
-    &nbsp;&nbsp;&nbsp;1-2) 주문번호를 통해 매출처 조회 화면 개발 <br>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→ 법인카드 회계전표의 검토 및 확인 과정을 신속하고 정확하게 처리할 수 있도록 개선<br>
-    &nbsp;&nbsp;&nbsp;1-3) 회계상의 미지급금과 법인카드 청구내역 비교 화면 개발<br>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; → 법인/개인 구분, 카드 종류, 카드명 등으로 검색할 수 있는 기능을 제공하여 사용자 편의성 향상에 기여<br>
-  
-  3. 예산 모듈 개발<br>
-    &nbsp;&nbsp;&nbsp;2-1) 예산과목별 실적 상세 조회 기능 개발 <br>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→ 예산 집행 현황을 면밀하게 분석하고 관리할 수 있도록 지원<br>
-    &nbsp;&nbsp;&nbsp;2-2) 사업계획별 예산 수립 현황 시각화 화면 개발 <br>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→ 예산 관리 및 계획 수립의 투명성을 높이고 의사 결정에 필요한 정보를 효과적으로 제공<br>
-    &nbsp;&nbsp;&nbsp;2-3) 활동일자별 영업활동 내역 조회 후 청구 시 근무지 컬럼 추가 <br>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→ 예산 정의 내용을 시각적으로 확인할 수 있는 화면을 개발하여 예산 청구의 정확성과 데이터 관리의 신뢰성 향상<br>
-  
-  5. 기간계 모듈 개선<br>
-    &nbsp;&nbsp;&nbsp;3-1) 구매입고 주문서 반영 여부 확인 화면 개발 <br>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→ 구매정산 처리의 정확성과 효율성 향상<br>
-    &nbsp;&nbsp;&nbsp;3-2) 영업활동비 자동 계산 기능 수정 <br>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→ 영업활동 사원별 별도의 정보 입력 없이 자동 계산되어 업무 효율성 향상 및 데이터 입력 오류 감소 지원<br>
-</p>
-
-<b>2. 프로젝트명 : 의료기계회사 고도화 및 MES 연동</b>
-<p>
-  - 수행기간 : 2022.10 ~ 2023.12<br>
-  - 내 역할 : 해외영업, 구매, 자재, CS, 회계 고도화 및 MES(기본정보 전달 및 구매, 물류, 영업, 생산, 외주 송,수신) 연동<br>
-  - 업무성과<br>
-
-  1. 수출 및 CS 처리 기능 개선<br>
-    &nbsp;&nbsp;&nbsp;1-1) 수출 시 문서 자동 출력 기능 개발<br>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→ 별도로 문서를 작성하지 않아도 출력하여 사용할 수 있도록 개선<br>
-    &nbsp;&nbsp;&nbsp;1-2) 구매 품목과 기존 자재 상세 조회 기능 추가<br>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→ 구매한 품목과 기존 자재를 상세하게 확인할 수 있도록 개선<br>
-    &nbsp;&nbsp;&nbsp;1-3) 내수/수출 유·무상 처리 기능 추가<br>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→ CS에서 내수 및 수출에 대한 유/무상 처리를 동시에 할 수 있도록 편의성 증가<br>
-    &nbsp;&nbsp;&nbsp;1-4) 다중조건 조회 기능 추가<br>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→ 구매 및 외주 관련 데이터를 더욱 효율적으로 관리할 수 있도록 개선<br>
-    &nbsp;&nbsp;&nbsp;1-5) 수출 Invoice 출력 시 거래처 품명 및 품번 정확히 반영<br>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→ 국제 거래에서의 정확성과 신뢰성 향상<br>
-    &nbsp;&nbsp;&nbsp;1-6) CS 매출 통합 및 자동화<br>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→ CS 처리 과정 자동화로 업무 처리 속도 개선<br>
-    &nbsp;&nbsp;&nbsp;1-7) 수출 매출 자료 일괄 다운로드 기능 추가<br>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→ 수출 매출 자료를 한 번에 다운로드할 수 있어 효율성 극대화<br>
-  
-  3. MES 연동 기능 개선<br>
-    &nbsp;&nbsp;&nbsp;2-1) 기존 ERP 수기 입력 방식 개선<br>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→ 키오스크나 POP 설치를 통해 MES 시스템에서 처리하고, 이를 ERP와 연동하여 데이터 자동 생성<br>
-    &nbsp;&nbsp;&nbsp;2-2) 구매, 물류, 영업, 생산, 외주 모듈 데이터 효율적 관리<br>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→ MES 데이터 연동으로 데이터 처리 효율성 증가<br>
-    &nbsp;&nbsp;&nbsp;2-3) 업무 처리 속도 및 정확성 향상<br>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→ MES 연동을 통해 업무 처리 속도와 정확성 크게 향상<br>
-    &nbsp;&nbsp;&nbsp;2-4) 생산 계획 최적화 및 외주 공정 개선<br>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→ 품질 관리 및 납기 준수 강화<br>
-</p>
-<b>3. 프로젝트명 : 선반업체회사 MES 도입 </b>
-<p>
-  - 수행기간 : 2023.03 ~ 2024.02<br>
-  - 내 역할 : 기본정보 데이터 및 MES와 ERP 데이터 연동과 이기종 DB 연동을 위한 ODBC(Open Database Connectivity) 설정 작업 진행<br>
-  - 업무성과<br>
-
-  1. 작업지시 및 외주발주 자동화<br>
-    &nbsp;&nbsp;&nbsp;1-1) 작업지시 등록 자동화<br>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→ MES에서 처리된 작업지시 데이터를 ERP 시스템에 자동으로 등록할 수 있게 되어, 별도의 수동 등록 절차 없이 스케줄러를 통해 작업을 자동으로 처리할 수 있도록 개선<br>
-    &nbsp;&nbsp;&nbsp;1-2) 외주발주 자동화<br>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→ MES에서 발생한 외주발주 데이터를 ERP 시스템에 자동으로 연동, 별도로 등록하지 않아도 ERP에서 외주발주가 자동으로 처리되도록 개선<br>
     
-  3. 이동처리 및 자재 관리 효율화<br>
-    &nbsp;&nbsp;&nbsp;2-1) 이동처리 자동화<br>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→ MES에서 발생한 이동처리 데이터를 ERP 시스템에 자동으로 연동하여 재고 이동 및 자산 관리를 실시간으로 반영할 수 있도록 개선<br>
-    &nbsp;&nbsp;&nbsp;2-2) 자재투입 및 외주자재투입 관리<br>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→ 생산에 필요한 자재투입 및 외주 자재투입 데이터가 MES에서 ERP 시스템으로 자동 연동되어, 자재 관리의 정확성과 효율성을 높임<br>
-    
-  5. 실시간 모니터링 화면 도입<br>
-    &nbsp;&nbsp;&nbsp;3-1) 문제 발생 시 알림<br>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→ 실시간 모니터링 화면을 통해 생산 현황, 외주 진행 상태, 자재 입출고 현황 등을 실시간으로 확인하고, 문제 발생 시 즉각적인 대응이 가능하도록 개선<br>
-    &nbsp;&nbsp;&nbsp;3-2) 운영 상태 직관적 확인<br>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→ 사용자들이 어디에서 문제가 발생했는지, 어떤 부분을 우선적으로 확인해야 하는지 직관적으로 파악할 수 있도록 모니터링 화면을 개선하여 운영 효율성을 높임<br>
-    
-  7. 기타 세부 성과<br>
-    &nbsp;&nbsp;&nbsp;ODBC 연동을 통해 이기종 DB(다양한 데이터베이스 간 연결)를 처리하여 MES와 ERP 시스템 간의 실시간 데이터 흐름을 원활하게 구현<br>
-    &nbsp;&nbsp;&nbsp;데이터 통합을 통해 실시간 생산 정보 및 자재 관리가 가능해져, 생산성과 정확성이 크게 향상<br>
-    &nbsp;&nbsp;&nbsp;스케줄러 기반 자동화로 인한 업무 시간 절약과 인적 오류 감소<br>
-    &nbsp;&nbsp;&nbsp;모니터링 화면 도입으로 실시간으로 발생하는 문제를 빠르게 파악하고 해결할 수 있어 운영팀의 업무 효율성 및 대응 속도가 개선됨<br>
-</p>
-<b>4. 프로젝트명 : 화장품 및 유통업체 플레이오토(쇼핑몰) 연동 </b>
-<p>
-  - 수행기간 : 2024.04 ~ 2025.05<br>
-  - 내 역할 : 주문, 상품 데이터 수집할 수 있도록 C#으로 DLL 개발 및 ERP 내 데이터 생성<br>
-  - 업무성과<br>
-
-  1. 플레이오토 연동 및 주문 처리 시스템 개선<br>
-    &nbsp;&nbsp;&nbsp;1-1) 상품 및 주문 데이터 수집 기능 개발<br>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→ 플레이오토에 등록된 상품과 주문 데이터를 ERP 시스템으로 수집할 수 있도록 기능을 개발.<br>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→ 사용자가 원하는 조건(전체, 수집완료, 반품완료 등)을 선택하여 버튼 클릭만으로 해당 데이터를 수집할 수 있게 개선.<br>
-    &nbsp;&nbsp;&nbsp;1-2) ERP 데이터 매핑 및 생성 기능<br>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→ 수집된 상품 및 주문 데이터를 ERP 시스템에 적합하게 매핑하여, 별도의 수동 입력 없이 ERP 내에서 자동으로 처리될 수 있도록 기능을 구현.<br>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→고객사는 번거로운 데이터 등록 절차 없이 손쉽게 ERP에 반영할 수 있게 됨.<br>
-    
-  2. 사용자 편의성 증대 및 만족도 향상<br>
-    &nbsp;&nbsp;&nbsp;2-1) 조건별 데이터 수집 기능으로 사용자 편의성 증대<br>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→ 사용자가 수집하고자 하는 조건을 선택한 후 버튼을 클릭하면 원하는 데이터만 효율적으로 수집할 수 있어, 수동 작업을 최소화하고 사용자 편의성을 크게 향상시킴.<br>
-    &nbsp;&nbsp;&nbsp;2-2) 업무 프로세스 개선 및 고객사 만족도 향상<br>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→ 고객사는 ERP 시스템에 데이터를 수동으로 입력하지 않아도 되어, 업무 시간을 절약하고 데이터 오류를 줄임.<br>
-    
-  3. 배송비 연동 및 전표 발행 지원<br>
-    &nbsp;&nbsp;&nbsp;3-1) 배송비 연동 기능 개발<br>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→ 주문 건에 대한 배송비 데이터를 플레이오토에서 ERP 시스템으로 연동하여, 고객사가 별도의 수작업 없이 ERP에서 배송비를 자동으로 반영할 수 있도록 개발<br>
-    &nbsp;&nbsp;&nbsp;3-2) 배송비 데이터 기반으로 전표 발행<br>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→ ERP 시스템 내에서 주문금액, 원가, 부가세, 배송비 등을 모두 반영하여, 고객사가 전표를 처리할 수 있도록 개선. <br>
-    
-  4. 고객사 업무 효율성 증대 및 만족도 향상<br>
-    &nbsp;&nbsp;&nbsp;4-1) 업무 프로세스 개선 및 사용자 편의성 증대<br>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→ 사용자는 버튼 클릭만으로 조건에 맞는 주문 데이터를 수집하고, 상품 원가와 금액/부가세를 자동으로 계산<br>
-    &nbsp;&nbsp;&nbsp;4-2) 고객사 업무 효율성 및 만족도 향상<br>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→ 고객사는 주문 건에 대한 원가 계산, 세금 처리, 배송비 연동 및 전표 발행을 모두 자동화하여, 수작업을 최소화하고 전반적인 업무 효율성 제고<br>
-</p>
 
 
 
