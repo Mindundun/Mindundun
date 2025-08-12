@@ -163,7 +163,7 @@ SQL(MSSQL, MySQL) / JAVA / C# / Python(Numpy, Pandas, Matplotlib), R / JAVA
 &nbsp;&nbsp; - 활동일자별 영업활동 내역 조회 후 청구 시 근무지 컬럼 추가<br>
 
 - 기간계 모듈 개선<br>
-&nbsp;&nbsp; - 구매입고 주문서 반영 여부 확인 화면 개발 **→ 정산 오류 발생률 20% 감소대**<br>
+&nbsp;&nbsp; - 구매입고 주문서 반영 여부 확인 화면 개발 **→ 휴먼 오류로 인한 정산 오류 발생률 기존대비 감소**<br>
 &nbsp;&nbsp; - 영업활동비 자동 계산 기능 수정<br>
 
 ✅ 성과<br>
