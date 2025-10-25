@@ -29,7 +29,7 @@ SQL(MSSQL, MySQL) / JAVA / C# / Python(Numpy, Pandas, Matplotlib), R / JAVA
 
 ### 📜 Certificate
 
-정보처리기사 / 빅데이터분석기사 / SQLD(SQL개발자) / ADsP(데이터분석준전문가) / DAsP(데이터아키텍처준전문가)/ 네트워크관리사2급 / ERP 정보관리사 1급(인사, 회계, 생산, 물류) Master
+정보처리기사 / 빅데이터분석기사 / SQLD(SQL개발자) / ADsP(데이터분석준전문가) / DAsP(데이터아키텍처준전문가)/ 네트워크관리사2급 / ERP 정보관리사 1급(인사, 회계, 생산, 물류) Master / TOEIC speaking IH
 
 ---
 
