@@ -23,7 +23,7 @@
 
 ### 🧩 Skill  
 
-SQL(MSSQL, MySQL) / JAVA / C# / Python(Numpy, Pandas, Matplotlib), R / JAVA
+SQL(MSSQL, MySQL) / JAVA / C# / Python(Numpy, Pandas, Matplotlib), R / SpringBoot(JPA,Mybatis) / JavaScript / React
 
 ---
 
@@ -192,7 +192,7 @@ SQL(MSSQL, MySQL) / JAVA / C# / Python(Numpy, Pandas, Matplotlib), R / JAVA
 
 - 수출 및 CS 업무 개선<br>
 &nbsp;&nbsp; - 수출 시 문서 자동 출력 기능 개발<br>
-&nbsp;&nbsp; - 구매 품목과 기존 자재 상세 조회 기능 추가 **→ 정보 접근성 및 확인 시간 40% 개선**<br>
+&nbsp;&nbsp; - 구매 품목과 기존 자재 상세 조회 기능 추가 **→ 정보 접근성 및 확인 시간 개선**<br>
 &nbsp;&nbsp; - 내수/수출 유·무상 동시 처리 기능 개발<br>
 &nbsp;&nbsp; - 다중조건 조회 기능 추가<br>
 &nbsp;&nbsp; - 수출 Invoice 출력 시 거래처 품명·품번 정확히 반영<br>
@@ -202,7 +202,7 @@ SQL(MSSQL, MySQL) / JAVA / C# / Python(Numpy, Pandas, Matplotlib), R / JAVA
 &nbsp;&nbsp; - 기존 ERP 수기 입력 방식을 키오스크/POP 기반 자동화 시스템으로 개선<br>
 &nbsp;&nbsp; - 구매, 물류, 영업, 생산, 외주 모듈과의 실시간 데이터 연동 구현<br>
 &nbsp;&nbsp; - 업무 처리 속도 및 정확성 향상, 데이터 누락 및 입력 오류 최소화<br>
-&nbsp;&nbsp; - 생산 계획 최적화 및 외주 공정 개선 **→ 품질 향상 및 납기 준수율 25% 상승**<br>
+&nbsp;&nbsp; - 생산 계획 최적화 및 외주 공정 개선 **→ 품질 향상 및 납기 준수율 상승**<br>
 
 ✅ 성과<br>
 - 수출 및 CS 업무 자동화로 처리 속도 및 정확성 향상<br>
@@ -232,14 +232,14 @@ SQL(MSSQL, MySQL) / JAVA / C# / Python(Numpy, Pandas, Matplotlib), R / JAVA
 💼 주요 업무<br>
 
 - 작업지시 및 외주발주 자동화<br>
-&nbsp;&nbsp; - MES 작업지시 데이터를 ERP에 자동 등록 **→ 스케줄러 기반 절차 간소화, 업무 시간 40% 단축**<br>
+&nbsp;&nbsp; - MES 작업지시 데이터를 ERP에 자동 등록 **→ 스케줄러 기반 절차 간소화, 업무 시간 단축**<br>
 &nbsp;&nbsp; - 외주발주 데이터 자동 연동<br>
 &nbsp;&nbsp; - 이동처리 및 자재 관리 효율화<br>
 &nbsp;&nbsp; - MES 이동처리 데이터 자동 반영<br>
 &nbsp;&nbsp; - 자재 및 외주 자재 투입 데이터 연동<br>
 - 실시간 모니터링 화면 도입<br>
 &nbsp;&nbsp; - 생산·외주·자재 현황 실시간 확인 및 알림 기능 구축<br>
-&nbsp;&nbsp; - 문제 발생 시 즉시 대응 가능 **→ 운영팀 대응 속도 50% 개선, 업무 효율성 증대**<br>
+&nbsp;&nbsp; - 문제 발생 시 즉시 대응 가능 **→ 운영팀 대응 속도 개선, 업무 효율성 증대**<br>
 - 기타 성과<br>
 &nbsp;&nbsp; - ODBC 설정으로 이기종 DB 간 데이터 연동 구현<br>
 &nbsp;&nbsp; - 실시간 정보 통합으로 생산성과 데이터 정확성 향상<br>
@@ -275,7 +275,7 @@ SQL(MSSQL, MySQL) / JAVA / C# / Python(Numpy, Pandas, Matplotlib), R / JAVA
 
 - 플레이오토 연동 및 주문 처리 자동화<br>
 &nbsp;&nbsp; - 상품·주문 데이터를 조건별로 선택 수집하는 기능 개발<br>
-&nbsp;&nbsp; - ERP 내 자동 매핑 및 주문 데이터 생성 처리 기능 구현**→ 데이터 처리 속도 50% 향상**<br>
+&nbsp;&nbsp; - ERP 내 자동 매핑 및 주문 데이터 생성 처리 기능 구현**→ 데이터 처리 속도 향상**<br>
 &nbsp;&nbsp; - 배송비 연동 기능 추가 및 ERP 전표 자동 발행 기능 구축<br>
 - 사용자 편의 기능 강화<br>
 &nbsp;&nbsp; - 버튼 클릭만으로 조건에 맞는 데이터 수집 및 처리 가능하도록 개선<br>
@@ -531,7 +531,7 @@ SQL(MSSQL, MySQL) / JAVA / C# / Python(Numpy, Pandas, Matplotlib), R / JAVA
                 <tr>
                     <td class="text-left"></td>
                     <td class="bold"><b>반도체 제조 업체</b><br>작업지시서 개발<br></td>
-                    <td>제품 별 SerialNo로 관리할 수 있또록 작업지시 개발</td>
+                    <td>제품 별 SerialNo로 관리할 수 있도도록 작업지시 개발</td>
                 </tr> 
                 <tr>
                     <td class="text-left"></td>
