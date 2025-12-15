@@ -23,7 +23,7 @@
 
 ### 🧩 Skill  
 
-SQL(MSSQL, MySQL) / JAVA / C# / Python(Numpy, Pandas, Matplotlib), R / SpringBoot(JPA,Mybatis) / JavaScript / React
+SQL(MSSQL, MySQL) / JAVA / C# / Python(Numpy, Pandas, Matplotlib), R / SpringBoot(JPA,Mybatis) / JavaScript / React / node.js
 
 ---
 
@@ -60,6 +60,25 @@ SQL(MSSQL, MySQL) / JAVA / C# / Python(Numpy, Pandas, Matplotlib), R / SpringBoo
             <td>
                 - R과 Python을 이용하여 공공 데이터 시각화<br>
                 - Python(numpy, pandas etc.)
+            </td>
+        </tr>
+        <tr>
+            <td>2025.09 ~</td>
+            <td>메가존클라우드</td>
+            <td>기업주도형 클라우드 네이티브 JAVA 개발자 양성과정</td>
+            <td>
+                - <b>개발 언어 & 프레임워크</b><br>
+                - JavaScript / Node.js: 백엔드 개발 및 API 구현<br>
+                - React: 프론트엔드 UI 개발<br>
+                - Spring (Java): 서버 사이드 애플리케이션 개발, REST API 설계<br>
+                <br>
+                - <b>클라우드 & 인프라</b><br>
+                - AWS: EC2, S3 등 클라우드 서비스 학습<br>
+                - Linux: 서버 운영 및 관리, CLI 환경 활용<br>
+                - 네트워크: TCP/IP, HTTP, DNS, 방화벽, 로드밸런싱 이해<br>
+                - Docker / Kubernetes: 컨테이너 기반 배포 및 클러스터 관리<br>
+                <br>
+                - JavaScript, React, node.js, Spring, AWS, 인프라(네트워크, 리눅스), docker, Kubernetes
             </td>
         </tr>
     </tbody>
