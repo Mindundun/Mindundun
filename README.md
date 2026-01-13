@@ -324,6 +324,7 @@ SQL(MSSQL, MySQL) / JAVA / C# / Python(Numpy, Pandas, Matplotlib), R / SpringBoo
 ---
 
   <h2>Project Details</h2>
+  <details>
     <p>
       <ul>
         <table>
@@ -615,7 +616,7 @@ SQL(MSSQL, MySQL) / JAVA / C# / Python(Numpy, Pandas, Matplotlib), R / SpringBoo
             </tbody>
         </table>
       </ul>
-    
+  </details>
 
 
 
